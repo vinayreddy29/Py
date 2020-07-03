@@ -1,0 +1,2 @@
+res=[{}]*6
+print("the empty list of dictiniries is:"+str(res))
